@@ -1,0 +1,10 @@
+#colorChanger {
+    transition: all 0.5s ease;
+  }
+  #slideImg {
+    transition: opacity 0.5s ease;
+  }
+  .tabBtn:hover {
+    background-color: #ddd;
+  }
+  
